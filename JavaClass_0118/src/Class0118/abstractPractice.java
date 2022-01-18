@@ -1,4 +1,4 @@
-package Class0118;
+package 0118;
 abstract class defaultSet{
     abstract void superpower();
     abstract void weight();
